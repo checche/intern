@@ -1,6 +1,6 @@
 # インターンでの成果物
 評価は5チーム中1位で,優勝しました.景品等もいただきました.
-動作の様子は[動画](url)をご確認ください.
+動作の様子は[動画](https://github.com/checche/intern/blob/master/sample.mov)をご確認ください.
 
 ## 使用技術
 * JavaScript
